@@ -1,0 +1,52 @@
+.section {
+  margin-top: 300px;
+}
+header {
+  background-color: burlywood;
+  height: 100px;
+  width: 100vw;
+  margin-left: -9px;
+  margin-top: -9px;
+  
+}
+
+nav {
+  padding-top: 30px;
+  padding-right: 50px;
+  text-align: right;
+}
+
+#obama2 {
+  float: left;
+  width: 100px;
+  border-radius: 50%;
+}
+
+#section1 {
+ 
+  text-align: left;
+  color: red;
+  font-family: 'Lucida Sans', Arial, sans-serif;
+}
+
+#img-container {
+text-align: center;
+}
+
+#obama {
+  border: 15px solid green;
+  border-radius: 50%;
+}
+
+
+
+#div1 {
+  float: left;
+  width: 50%;
+  height: 50%; 
+  padding: 10px 20px 10px 20px;
+  background-color: rgba(255, 50, 50, 0.2);
+  border: 3px solid blue;
+}
+
+
